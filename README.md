@@ -4,10 +4,10 @@
 
 ## Classnotes:
 
-- [ ] 0114-a-intro
-- [ ] 0114-b-rpc1
-- [ ] 0116-a-rpc2
-- [ ] 0116-b-project1
+- [x] 0114-a-intro
+- [x] 0114-b-rpc1
+- [x] 0116-a-rpc2
+- [x] 0116-b-project1
 - [ ] 0121-rpc3
 - [ ] 0123-a-rpc4
 - [ ] 0123-b-rpc4
