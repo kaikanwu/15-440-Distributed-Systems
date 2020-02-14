@@ -10,7 +10,7 @@
 - [x] 0116-b-project1
 - [x] 0121-rpc3
 - [x] 0123-a-rpc4
-- [ ] 0123-b-rpc4
+- [x] 0123-b-rpc4
 - [ ] 0128-a-rpc5
 - [ ] 0128-b-rpc5
 - [ ] 0128-c-latency1
