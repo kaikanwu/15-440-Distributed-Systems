@@ -22,7 +22,7 @@ Last Class: Thursday April 30
 - [x] 0121-rpc3
 - [x] 0123-a-rpc4
 - [x] 0123-b-rpc4
-- [ ] 0128-a-rpc5
+- [x] 0128-a-rpc5
 - [ ] 0128-b-rpc5
 - [ ] 0128-c-latency1
 - [ ] 0130-latency2
