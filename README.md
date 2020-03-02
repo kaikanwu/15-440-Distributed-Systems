@@ -34,6 +34,7 @@ Last Class: Thursday April 30
 - [ ] 0213-caching4
 - [ ] 0218-caching5
 - [ ] 0220-prefetching1
+- [ ] 0225-scaling1
 
 
 
