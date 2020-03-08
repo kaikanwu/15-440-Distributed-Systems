@@ -27,7 +27,7 @@ Last Class: Thursday April 30
 - [x] 0128-c-latency1
 - [x] 0130-latency2
 - [x] 0204-caching1
-- [ ] 0206-a-caching2
+- [x] 0206-a-caching2
 - [ ] 0206-b-RMI1
 - [ ] 0211-a-RMI2
 - [ ] 0211-b-caching3
