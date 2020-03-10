@@ -29,7 +29,7 @@ Last Class: Thursday April 30
 - [x] 0204-caching1
 - [x] 0206-a-caching2
 - [x] 0206-b-RMI1
-- [ ] 0211-a-RMI2
+- [x] 0211-a-RMI2
 - [ ] 0211-b-caching3
 - [ ] 0213-caching4
 - [ ] 0218-caching5
